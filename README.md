@@ -1,2 +1,2 @@
 # MyLittleSpider
-a dumb spider
+a small spider - fragile but live.
