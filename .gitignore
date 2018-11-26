@@ -1,2 +1,5 @@
 #ignore virtualenv
 venv
+
+#ignore IDE settings
+.idea
